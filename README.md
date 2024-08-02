@@ -14,7 +14,7 @@ I'm a software developer with a passion for creating innovative solutions. I spe
    - Description of the project and its purpose.
    - ![Technologies](https://img.shields.io/badge/Tech-Python-blue)
 
-2. **[Another Project](https://github.com/mahachi/another-project)**
+2. **[Another Project](https://github.com/mascilin/another-project)**
    - Brief description and key features.
    - ![Technologies](https://img.shields.io/badge/Tech-React-blue)
 
@@ -23,7 +23,7 @@ I'm a software developer with a passion for creating innovative solutions. I spe
 - Cloud computing with AWS
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mahachi)
+- [LinkedIn](https://www.linkedin.com/in/masciline)
 - [Twitter](https://twitter.com/mahachi_dev)
 
 <!---
