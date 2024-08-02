@@ -23,7 +23,7 @@ I'm a software developer with a passion for creating innovative solutions. I spe
 - Cloud computing with AWS
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/masciline)
+- [LinkedIn](https://www.linkedin.com/in/masciline-mahachi-24b3b1294/)
 - [Twitter](https://twitter.com/mahachi_dev)
 
 <!---
